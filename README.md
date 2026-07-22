@@ -43,3 +43,4 @@ in the correct order.
 
 - Prof. Sandra De Iaco — University of Salento, Italy
 - Prof. Donato Posa — University of Salento, Italy
+- Prof. Claudia Cappello — University of Salento, Italy
